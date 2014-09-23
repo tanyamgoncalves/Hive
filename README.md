@@ -11,3 +11,6 @@ Hive is a foundational language, and users learn about several different things.
 From a coding standpoint users become comfortable with writing function and method calls, and from here get comfortable with changing parameters of those calls. Hive has taken away all other elements of working with code, and concentrates solely on writing functions and method calls to provide a simple and clean starter notation for novice users. 
 
 The system ability of Hive includes the ability of users to manage four layers of sound. These four layers are essentially executed by booting four preset instruments: melody, harmony, bass, and texture. Users can specify sequences of notes in relative pitch notation, change the root of the sequence of pitches, and change the tempo. Users can also shift up or down the root of a sequence of pitches, and stop and start instruments. Users can also add and change the envelope of each instrument based on five presets with specified attack and release times, they are called: short, long, rev, perc, and tri. Lastly, users can evaluate a basic help method to begin working with the language if they are confused on where to begin.
+
+
+To begin working with Hive, please view the following beginners tutorial at the following link: https://docs.google.com/document/d/1dqpcBFdEisv52H6OSVTkph4wHgUVEKb1Pt-xvKaafBY/pub
