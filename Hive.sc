@@ -1,6 +1,10 @@
-Hive {
+// Hive
+// By: Tanya Goncalves (goncat@mcmaster.ca)
 
-	// Hive 1.0
+// GNU GENERAL PUBLIC LICENSE Version 2, June 1991
+
+
+Hive {
 
 	classvar notesMelody;
 	classvar notesMelodyreplace;
